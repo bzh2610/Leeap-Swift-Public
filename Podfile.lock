@@ -1,0 +1,41 @@
+PODS:
+  - AAInfographics (2.0.4)
+  - Alamofire (4.8.1)
+  - CountryPickerView (2.2.4)
+  - Stripe (14.0.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - AAInfographics (from `https://github.com/AAChartKit/AAChartKit-Swift.git`, branch `master`)
+  - Alamofire (~> 4.8.0)
+  - CountryPickerView
+  - Stripe
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CountryPickerView
+    - Stripe
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  AAInfographics:
+    :branch: master
+    :git: https://github.com/AAChartKit/AAChartKit-Swift.git
+
+CHECKOUT OPTIONS:
+  AAInfographics:
+    :commit: 0455c20d702dfaf26e71d409d393c955bcce83f7
+    :git: https://github.com/AAChartKit/AAChartKit-Swift.git
+
+SPEC CHECKSUMS:
+  AAInfographics: 10f87e06fc007a0adbb05de020e4a2fe3119f8de
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  CountryPickerView: aaa71b692709382e918bd7da5cf6f15d6723df0a
+  Stripe: db29ad197c74aca6fb981e4e8355cf7ebd0fca5a
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: 4d3f5dbef04fb9fa203b9c456b644dc85c73c04b
+
+COCOAPODS: 1.5.3
